@@ -20,6 +20,10 @@ div{
 	display: block;
 }
 
+* {
+    -webkit-overflow-scrolling: touch;
+}
+
 .fixed-nav-bar {
     position: fixed;
     top: 0;
